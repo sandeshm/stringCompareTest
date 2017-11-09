@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F88629E1-DDBD-4DC8-8874-962AB5CFB21A}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NunitTest1/Test.cs">
+    <Files>
+      <File FileName="NunitTest1/Test.cs" Line="4" Column="4" />
+      <File FileName="NunitTest1/Assignment.txt" Line="28" Column="5" />
+      <File FileName="NunitTest1/ReadMe.md" Line="5" Column="1" />
+      <File FileName="NunitTest1/TestCases.txt" Line="54" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NunitTest1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.stringCompareTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

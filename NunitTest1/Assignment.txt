@@ -1,0 +1,35 @@
+﻿Take-Home​ ​Assignment​ ​(API​ ​SDET)
+Thanks for taking some time from your busy schedule to work through this assignment;
+we certainly appreciate it. Our goal here is to learn about your testing style, and
+approach to test development in general - basically, an early look at how good a fit Trōv
+might​ ​make​ ​for​ ​you​ ​and​ ​vice​ ​versa​ ​:)
+
+The exercise is on the following page along with the list of deliverables. Please be sure to
+include answers and any other notes/comments/design decisions in a README.md. One of
+our tenets is “it doesn’t exist if it’s not written down”, so feel free to over-communicate in
+that document. This is your chance to show us what you consider to be great tests ! We
+really enjoy seeing a passion for testing surface early in this process. When you are
+finished, please reply to this email with a link to your Github (or similar online) repository
+or​ ​send​ ​a​ ​zip​ ​file​ ​of​ ​containing​ ​your​ ​work.
+
+Looking​ ​forward​ ​to​ ​seeing​ ​your​ ​code​ ​and​ ​answers!
+
+1​ ​of​ ​2
+
+API ​Testing
+Using​ ​the​ ​standard​ ​C#​ ​string​ ​compare​ ​method,​ ​write​ ​several​ ​API​ ​tests​ ​that​ ​confirm​ ​the
+method​ ​functioning​ ​to​ ​the​ ​spec​ ​described​ ​here
+https://msdn.microsoft.com/en-us/library/7aaf32ef(v=vs.110).aspx
+
+Deliverables
+Along​ ​with​ ​your​ ​working​ ​tests,​ ​please​ ​include:
+
+1. Instructions​ ​for​ ​how​ ​to​ ​run​ ​your​ ​tests,​ ​and​ ​any​ ​requirements​ ​necessary​ ​to​ ​run
+them
+2. A​ ​brief​ ​overview​ ​of​ ​the​ ​tools​ ​you​ ​chose​ ​to​ ​use,​ ​and​ ​why​ ​you​ ​chose​ ​to​ ​use​ ​each
+tool.
+
+One ​Small ​Reminder
+The purpose of this exercise is for you to demonstrate your current skills, not pick up a
+new library/framework/workflow/IDE. We know good testers can adapt, so for this
+exercise​ ​please​ ​use​ ​your​ ​preferred​ ​stack​ ​to​ ​deliver​ ​working​ ​code.

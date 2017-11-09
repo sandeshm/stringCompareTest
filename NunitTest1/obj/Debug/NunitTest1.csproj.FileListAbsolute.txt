@@ -1,0 +1,8 @@
+/Users/desh/Projects/NunitTest1/NunitTest1/bin/Debug/NunitTest1.dll
+/Users/desh/Projects/NunitTest1/NunitTest1/bin/Debug/NunitTest1.pdb
+/Users/desh/Projects/NunitTest1/NunitTest1/bin/Debug/nunit.framework.dll
+/Users/desh/Projects/NunitTest1/NunitTest1/bin/Debug/nunit.framework.xml
+/Users/desh/Projects/NunitTest1/NunitTest1/obj/Debug/NunitTest1.csprojResolveAssemblyReference.cache
+/Users/desh/Projects/NunitTest1/NunitTest1/obj/Debug/NunitTest1.csproj.CoreCompileInputs.cache
+/Users/desh/Projects/NunitTest1/NunitTest1/obj/Debug/NunitTest1.dll
+/Users/desh/Projects/NunitTest1/NunitTest1/obj/Debug/NunitTest1.pdb
